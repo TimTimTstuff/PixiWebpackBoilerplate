@@ -19,7 +19,7 @@
     "css-loader": "^3.4.2"
   },
   "dependencies": {
-    "@timtimtstuff/tstuffgametools": "^1.0.16",
+    "@timtimtstuff/tstuffgametools": "^1.1.1",
     "pixi.js": "^5.2.4"
   }
 }
